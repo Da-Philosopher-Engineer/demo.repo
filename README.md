@@ -6,6 +6,7 @@ Some description!
 
 Watch tutorial on YouTube.
 
-#Local Development
+# Local Development
 
 1. Open index.html in browser.
+2. Select the search bar 
